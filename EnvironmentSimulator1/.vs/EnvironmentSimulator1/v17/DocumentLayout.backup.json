@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CTCS2 Project\\\u6BD5\u8BBE1\\Project\\EnvironmentSimulator1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79F13CFA-BC50-4A6C-AA22-A7C2F48413B2}|EnvironmentSimulator1.csproj|d:\\ctcs2 project\\\u6BD5\u8BBE1\\project\\environmentsimulator1\\sqlcon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F13CFA-BC50-4A6C-AA22-A7C2F48413B2}|EnvironmentSimulator1.csproj|solutionrelative:sqlcon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F13CFA-BC50-4A6C-AA22-A7C2F48413B2}|EnvironmentSimulator1.csproj|D:\\CTCS2 Project\\\u6BD5\u8BBE1\\Project\\EnvironmentSimulator1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F13CFA-BC50-4A6C-AA22-A7C2F48413B2}|EnvironmentSimulator1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F13CFA-BC50-4A6C-AA22-A7C2F48413B2}|EnvironmentSimulator1.csproj|D:\\CTCS2 Project\\\u6BD5\u8BBE1\\Project\\EnvironmentSimulator1\\structandbyte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F13CFA-BC50-4A6C-AA22-A7C2F48413B2}|EnvironmentSimulator1.csproj|solutionrelative:structandbyte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F13CFA-BC50-4A6C-AA22-A7C2F48413B2}|EnvironmentSimulator1.csproj|D:\\CTCS2 Project\\\u6BD5\u8BBE1\\Project\\EnvironmentSimulator1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{79F13CFA-BC50-4A6C-AA22-A7C2F48413B2}|EnvironmentSimulator1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F13CFA-BC50-4A6C-AA22-A7C2F48413B2}|EnvironmentSimulator1.csproj|D:\\CTCS2 Project\\\u6BD5\u8BBE1\\Project\\EnvironmentSimulator1\\switch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F13CFA-BC50-4A6C-AA22-A7C2F48413B2}|EnvironmentSimulator1.csproj|solutionrelative:switch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F13CFA-BC50-4A6C-AA22-A7C2F48413B2}|EnvironmentSimulator1.csproj|D:\\CTCS2 Project\\\u6BD5\u8BBE1\\Project\\EnvironmentSimulator1\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F13CFA-BC50-4A6C-AA22-A7C2F48413B2}|EnvironmentSimulator1.csproj|solutionrelative:form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SQLCon.cs",
+              "DocumentMoniker": "D:\\CTCS2 Project\\\u6BD5\u8BBE1\\Project\\EnvironmentSimulator1\\SQLCon.cs",
+              "RelativeDocumentMoniker": "SQLCon.cs",
+              "ToolTip": "D:\\CTCS2 Project\\\u6BD5\u8BBE1\\Project\\EnvironmentSimulator1\\SQLCon.cs",
+              "RelativeToolTip": "SQLCon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T00:05:24.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "structANDbyte.cs",
+              "DocumentMoniker": "D:\\CTCS2 Project\\\u6BD5\u8BBE1\\Project\\EnvironmentSimulator1\\structANDbyte.cs",
+              "RelativeDocumentMoniker": "structANDbyte.cs",
+              "ToolTip": "D:\\CTCS2 Project\\\u6BD5\u8BBE1\\Project\\EnvironmentSimulator1\\structANDbyte.cs",
+              "RelativeToolTip": "structANDbyte.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T00:37:16.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form7.cs",
+              "DocumentMoniker": "D:\\CTCS2 Project\\\u6BD5\u8BBE1\\Project\\EnvironmentSimulator1\\Form7.cs",
+              "RelativeDocumentMoniker": "Form7.cs",
+              "ToolTip": "D:\\CTCS2 Project\\\u6BD5\u8BBE1\\Project\\EnvironmentSimulator1\\Form7.cs",
+              "RelativeToolTip": "Form7.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T12:21:17.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Switch.cs",
+              "DocumentMoniker": "D:\\CTCS2 Project\\\u6BD5\u8BBE1\\Project\\EnvironmentSimulator1\\Switch.cs",
+              "RelativeDocumentMoniker": "Switch.cs",
+              "ToolTip": "D:\\CTCS2 Project\\\u6BD5\u8BBE1\\Project\\EnvironmentSimulator1\\Switch.cs",
+              "RelativeToolTip": "Switch.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAAOUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T12:10:44.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\CTCS2 Project\\\u6BD5\u8BBE1\\Project\\EnvironmentSimulator1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\CTCS2 Project\\\u6BD5\u8BBE1\\Project\\EnvironmentSimulator1\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T12:05:14.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\CTCS2 Project\\\u6BD5\u8BBE1\\Project\\EnvironmentSimulator1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\CTCS2 Project\\\u6BD5\u8BBE1\\Project\\EnvironmentSimulator1\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAACoCAAAAAAAAAAAlwDgCAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T00:04:14.99Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
